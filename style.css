@@ -1,0 +1,267 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: alda, Georgia, serif;
+}
+
+.logo img {
+  width: 200px;
+  margin-top: 20px;
+}
+
+.navigation-menu {
+  display: flex;
+  color: #0a3c53;
+}
+
+.navigation-menu ul {
+  display: flex;
+  list-style: none;
+}
+
+.navigation-menu li {
+  padding: 20px;
+  font-family: "Song Myung", serif;
+  font-size: 1rem;
+  font-weight: 540;
+  letter-spacing: 0.5px;
+}
+
+.individual {
+  display: inline-block;
+  margin-left: 900px;
+  padding: 10px 10px 0 25px;
+  background-color: #f1f6f8;
+  height: 2.625rem;
+  justify-content: center;
+}
+
+.container span i {
+  margin: 0 0 10px 10px;
+}
+
+.acount {
+  display: flex;
+}
+
+.acount p {
+  padding: 10px;
+  font-family: "Bentham", serif;
+  border-right: 1px solid gray;
+  justify-content: center;
+  margin-top: 15px;
+  height: 45px;
+}
+
+.acount i {
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.heros-panel {
+  height: 550px;
+  background-image: url("/Images/heros\ panel.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.opportunity {
+  color: white;
+  margin-left: 60px;
+  padding-top: 100px;
+}
+
+.opportunity p {
+  color: white;
+}
+
+.opportunity button {
+  width: 300px;
+  padding: 10px;
+  background-color: #2e87b0;
+  color: #fff;
+  margin-top: 10px;
+}
+
+.opportunity button i {
+  padding-left: 10px;
+}
+
+.philosophy {
+  text-align: center;
+  font-family: alda, Georgia, serif;
+  margin-top: -100px;
+  background-color: #fff;
+  color: #0a3c53;
+  padding: 20px;
+}
+
+.philosophy p {
+  width: 1000px;
+  padding-left: 100px;
+}
+
+.philosophy h2 {
+  margin-bottom: 20px;
+}
+
+.cards {
+  font-family: "helvetica-neue", Helvetica, Arial, sans-serif;
+}
+
+.multi-cards{
+  color: #0a3c53;
+
+}
+
+.multi-cards button{
+  color: #0a3c53;
+}
+
+
+.page-buttons {
+  border: none;
+  background: transparent;
+  margin: 10px;
+  margin-left: 0px;
+  font-weight: bold;
+  color: #0a3c53;
+
+}
+
+.cards h4 {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.image {
+  margin-bottom: 50px;
+}
+
+.cities {
+  background: #f1f6f8;
+  padding: 10px;
+  padding-top: 30px;
+  color: #0a3c53;
+}
+
+.street {
+  background-color: #205f7c;
+  color: white;
+  height: 300px;
+  text-align: center;
+}
+
+.street h3 {
+  padding-top: 60px;
+}
+
+.street p {
+  color: white;
+  width: 800px;
+  text-align: center;
+  margin-left: 200px;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.street button {
+  background-color: #2e87b0;
+  color: white;
+  padding: 10px;
+  padding-left: 30px;
+}
+
+.street button i {
+  padding-left: 10px;
+  color: white;
+  width: 70px;
+}
+
+.perspectives{
+  padding: 20px;
+  padding-left: 0px;
+  color: #0a3c53;
+}
+
+.slieders{
+  color: #0a3c53;
+}
+
+.date{
+  font-size: .6875rem;;
+  font-family: helvetica-neue,Helvetica,Arial,sans-serif;
+  padding: 5px;
+}
+
+.final {
+  background: #f1f6f8;
+  padding: 30px;
+  color: #0a3c53;
+}
+
+.relationsheep-summery {
+  padding: 20px;
+  color: #0a3c53;
+}
+
+footer {
+  background-color: #0a3c53;
+  color: white;
+  padding: 50px;
+  margin-top: -25px;
+}
+
+.boutiques h6 {
+  font-weight: 600;
+}
+
+.remove-dot {
+  list-style: none;
+}
+
+.boutiques li {
+  list-style: none;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+  padding-left: 0px;
+}
+
+.second-col {
+  margin-top: 45px;
+}
+
+.connect {
+  font-size: xx-large;
+}
+
+.connect i {
+  padding: 10px;
+}
+
+.subscribe span {
+  display: block;
+  font-size: x-small;
+}
+
+.subscribe input {
+  padding: 7px;
+}
+
+.foot-row {
+  font-size: small;
+  padding: 20px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  margin-top: 20px;
+}
+
+
+.info p{
+    font-size: .6875rem;
+    padding-left: 30px;
+}
